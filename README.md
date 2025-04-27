@@ -152,7 +152,7 @@ Want to run it locally?
 Here’s a quick demo of the application in action:
 
 <video controls style="height: 400px; width: auto;">
-    <source src="./React/public/Demo.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/adwaiy2912/Number-Recognition/main/React/public/Demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
