@@ -9,7 +9,7 @@ This guide will help you set up the **Number Recognition** project on your local
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/adwaiy2912/Number-Recognition.git
    cd Number-Recognition/FastAPI
    ```
 
@@ -30,6 +30,10 @@ This guide will help you set up the **Number Recognition** project on your local
 
    -  📥 Download `models.zip` manually from [Dropbox Link](https://www.dropbox.com/scl/fi/lxpmqmu65b9nmxtjjeukt/models.zip?rlkey=mxuyoquhrphk5ugwm9jbha48d&st=8ejq30ci&dl=0).
    -  Extract it inside the `FastAPI/` directory so that a `models/` folder appears.
+
+   **OR** you can generate the `.pkl` model files yourself:
+
+   -  Navigate to the `FastAPI/utils/` folder and run `Number_Recognition.ipynb` to generate your own model files.
 
 5. **Run the FastAPI server**
    ```bash
