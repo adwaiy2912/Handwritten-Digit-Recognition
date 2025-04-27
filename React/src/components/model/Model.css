@@ -1,0 +1,25 @@
+.model-container {
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 24px;
+
+   margin-bottom: 5rem;
+}
+
+.model-title {
+   font-size: 2rem;
+   text-align: center;
+   color: var(--dark-color);
+}
+
+.model-grid {
+   display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   gap: 24px;
+}
+
+@media screen and (max-width: 768px) {
+   .model-grid {
+      grid-template-columns: 1fr;
+   }
+}

@@ -1,0 +1,37 @@
+.upload-canvas-container {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+
+   margin: 5rem 0 3rem 0;
+}
+
+.canvas-container {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+
+.button-wrapper {
+   text-align: center;
+   margin-top: 20px;
+}
+
+.button-wrapper button {
+   background-color: black;
+   color: white;
+   border: 2px solid black;
+   padding: 10px 20px;
+   font-size: 16px;
+   font-weight: 600;
+   cursor: pointer;
+   border-radius: 10px;
+   transition: all 0.3s ease;
+}
+
+.button-wrapper button:hover {
+   background-color: white;
+   color: black;
+   border: 2px solid black;
+}

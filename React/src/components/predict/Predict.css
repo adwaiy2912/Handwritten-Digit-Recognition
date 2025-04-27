@@ -1,0 +1,44 @@
+.predict-container {
+   display: flex;
+   justify-content: space-evenly;
+   margin-bottom: 3rem;
+}
+
+.predict-container button {
+   width: 400px;
+   background-color: #4caf50;
+   color: white;
+   padding: 1rem 2rem;
+   border: 1px solid #1b941f;
+   border-radius: 10px;
+   cursor: pointer;
+   transition: background-color 0.3s, transform 0.2s ease;
+   font-weight: 600;
+   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.predict-container button:hover {
+   background-color: #45a049;
+   transform: translateY(-2px);
+}
+
+.predict-container button:active {
+   background-color: #388e3c;
+   transform: translateY(0);
+}
+
+.spinner {
+   font-size: 24px;
+   animation: spin 1s linear infinite;
+   display: inline-block;
+   vertical-align: middle;
+}
+
+@keyframes spin {
+   0% {
+      transform: rotate(0deg);
+   }
+   100% {
+      transform: rotate(360deg);
+   }
+}
