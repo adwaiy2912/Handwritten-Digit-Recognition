@@ -12,7 +12,7 @@ const Header = () => {
                   alt="Logo"
                   className="logo-img"
                />
-               <h2 className="logo-text">Number Recognition</h2>
+               <h2 className="logo-text">Handwritten Digit Recognition</h2>
             </div>
 
             <nav className="nav-links">

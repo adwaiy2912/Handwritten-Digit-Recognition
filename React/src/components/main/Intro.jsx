@@ -4,7 +4,9 @@ import React from "react";
 const Intro = () => {
    return (
       <section className="intro-section">
-         <h1 className="intro-heading">Welcome to Number Recognition</h1>
+         <h1 className="intro-heading">
+            Welcome to Handwritten Digit Recognition
+         </h1>
          <p className="intro-text">
             This tool allows you to either upload an image of a handwritten
             digit or draw a number yourself to recognize it. Follow the steps

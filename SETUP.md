@@ -1,6 +1,6 @@
 # ⚙️ Project Setup Guide
 
-This guide will help you set up the **Number Recognition** project on your local machine.
+This guide will help you set up the **Handwritten Digit Recognition** project on your local machine.
 
 ---
 
@@ -9,8 +9,8 @@ This guide will help you set up the **Number Recognition** project on your local
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/adwaiy2912/Number-Recognition.git
-   cd Number-Recognition/FastAPI
+   git clone https://github.com/adwaiy2912/Handwritten-Digit-Recognition.git
+   cd Handwritten-Digit-Recognition/FastAPI
    ```
 
 2. **Create a virtual environment**
