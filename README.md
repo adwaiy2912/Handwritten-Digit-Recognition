@@ -1,4 +1,4 @@
-# 🧮 Number Recognition
+# 🧮 Handwritten Digit Recognition
 
 A full-stack project where users can draw or upload handwritten digits and get instant model predictions.  
 It combines a **React** frontend for smooth user interaction and a **FastAPI** backend serving multiple trained machine learning models.
@@ -7,7 +7,7 @@ It combines a **React** frontend for smooth user interaction and a **FastAPI** b
 
 ## 📑 Table of Contents
 
--  [🧮 Number Recognition](#-number-recognition)
+-  [🧮 Handwritten Digit Recognition](#-handwritten-digit-recognition)
    -  [📑 Table of Contents](#-table-of-contents)
    -  [✨ Features](#-features)
    -  [📂 Project Structure](#-project-structure)
@@ -34,7 +34,7 @@ It combines a **React** frontend for smooth user interaction and a **FastAPI** b
 ## 📂 Project Structure
 
 ```
-Number-Recognition/
+Handwritten-Digit-Recognition/
 ├── FastAPI/
 │ ├── models/
 │ ├── src/
