@@ -142,7 +142,7 @@ These models are trained on digit datasets and saved inside the **FastAPI/models
 
 ## ⚙️ Setup
 
-Want to run it locally?  
+To recreate the project locally.
 👉 Check out the [Setup Guide](./SETUP.md) for complete instructions.
 
 ---
