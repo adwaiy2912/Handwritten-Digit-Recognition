@@ -113,7 +113,7 @@ Handwritten-Digit-Recognition/
    -  Global styles.
 
 -  `vite.config.js`
-   -  Vite project configuration.
+   -  Vite project configuration. (default configs)
 
 ---
 
